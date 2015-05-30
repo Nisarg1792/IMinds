@@ -1,0 +1,14 @@
+Windows phone
+ 
+Archit Trivedi
+Posted on 03-02-2012
+
+For those who might not know this, the kernel is the very core of any operating system. It handles direct communication with the hardware, managing system resources such as CPU, RAM, and I/O devices. Applications built to run on one kernel will not run on another. Despite looking and behaving drastically dif erent, Ubuntu Linux, Android and MeeGo at their very core use the Linux kernel. It is possible for some applications written for MeeGo to run directly on Ubuntu, and vice-versa, although Android is a different story since its applications run on a VM. Quite some details about Windows Phone 8 have been leaked via a video intended for internal distribution within Nokia. With Windows Phone 8 it seems Microsoft will finally unify their operating systems at the very core level. 
+
+With Windows 8 already taking UI direction from Windows Phone, and Windows Phone taking the kernel from Windows 8, this essentially means that Windows Phone 8 and Windows 8 will be the same OS. By basing both operating systems on the same kernel, developers at Microsoft can share code for common features between the OS. This would include code for sensors, networking, multimedia, etc. So what does this mean for Windows Phone 7 apps, considering that Windows Phone 8 changes the architecture of the OS. Well not much. Windows Phone 7 applications are not built on native code, so it is easy for them to be supported on Windows Phone 8. On the other hand, this might make it possible for developers to share more code between Windows 8 apps and Windows Phone 8 apps.
+
+Of course simply coming with a new architecture won’t attract any new users. Windows Phone 8 will also come with a number of new features: 
+Internet Explorer 10 for mobile will come in Windows Phone 8. Like Opera for desktop and mobile it will support server-side compression for lower bandwidth usage and faster internet access on mobile. A new technology called “Data Smart” that comes in Windows 8 and Windows Phone 8 optimises cellular data usage. Skype, recently acquired by Microsoft, will be more tightly integrated into the system, but still a separate app. SkyDrive, Microsoft’s cloud storage service will be integrated for sync across phone and desktop. Business features such as support for hardware-accelerated encryption. Businesses will be able to distribute apps privately within the company.
+
+NFC support, for sharing content and payments
+Windows Phone 8 seems to be an exciting prospect indeed, although for now the new kernel seems to be the biggest revelation of all.
